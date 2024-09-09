@@ -3,7 +3,7 @@
 # Description
 Introducing **_Loha_**, the groundbreaking mobile app revolutionizing the art and photography scene. Easily order custom prints, artwork, and photo albums right from your phone, with options for size and frame preference. Explore a diverse collection of high-quality visuals from talented photographers, artists, and calligraphers. Whether it's breathtaking landscapes, stunning artwork, or intricate calligraphy, Loha offers something for everyone. Plus, unleash your creativity by uploading your own photos to be transformed into beautifully printed and framed pieces. Enjoy a seamless experience from browsing to delivery, with every detail handled with care and efficiency by our app. Your chosen artwork or photographs will be printed and delivered straight to your doorstep.
 
-<img src="images/Loha-Logo.png" alt="Project Screenshot" width="400">
+<img src="assets/Loha-Logo.png" alt="Project Screenshot" width="400">
 
 ## Responsibilites
 
