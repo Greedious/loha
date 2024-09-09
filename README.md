@@ -31,18 +31,19 @@ Introducing **_Loha_**, the groundbreaking mobile app revolutionizing the art an
 ## Mobile App Screenshots: 
 <img src="assets/sign-up.png" alt="Project Screenshot" width="300">
 <img src="assets/otp.png" alt="Project Screenshot" width="300">
-![App Screenshot](assets/homepage.png)
-![App Screenshot](assets/gallery.png)
-![App Screenshot](assets/view-image.png)
-![App Screenshot](assets/buy-image.png)
-![App Screenshot](assets/choose-image-specs.png)
-![App Screenshot](assets/checkout.png)
-![App Screenshot](assets/loha-store.png)
-![App Screenshot](assets/filtering-loha-store.png)
-![App Screenshot](assets/order-tracking.png)
-![App Screenshot](assets/upload-photos.png)
-![App Screenshot](assets/create-photo.png)
+<img src="assets/homepage.png" alt="Project Screenshot" width="300">
+<img src="assets/gallery.png" alt="Project Screenshot" width="300">
+<img src="assets/view-image.png" alt="Project Screenshot" width="300">
+<img src="assets/buy-image.png" alt="Project Screenshot" width="300">
+<img src="assets/choose-image-specs.png" alt="Project Screenshot" width="300">
+<img src="assets/checkout.png" alt="Project Screenshot" width="300">
+<img src="assets/loha-store.png" alt="Project Screenshot" width="300">
+<img src="assets/filtering-loha-store.png" alt="Project Screenshot" width="300">
+<img src="assets/order-tracking.png" alt="Project Screenshot" width="300">
+<img src="assets/upload-photos.png" alt="Project Screenshot" width="300">
+<img src="assets/create-photo.png" alt="Project Screenshot" width="300">
+
 
 ## Dasboard Screenshots:
-![App Screenshot](assets/dashboard-1.png)
-![App Screenshot](assets/dashboard-2.png)
+<img src="assets/dashboard-1.png" alt="Project Screenshot" width="700">
+<img src="assets/dashboard-2.png" alt="Project Screenshot" width="700">
