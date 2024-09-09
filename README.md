@@ -29,8 +29,8 @@ Introducing **_Loha_**, the groundbreaking mobile app revolutionizing the art an
 
 
 ## Mobile App Screenshots: 
-![App Screenshot](assets/sign-up.png)
-![App Screenshot](assets/otp.png)
+<img src="assets/sign-up.png" alt="Project Screenshot" width="300">
+<img src="assets/otp.png" alt="Project Screenshot" width="300">
 ![App Screenshot](assets/homepage.png)
 ![App Screenshot](assets/gallery.png)
 ![App Screenshot](assets/view-image.png)
