@@ -28,25 +28,5 @@ Introducing **_Loha_**, the groundbreaking mobile app revolutionizing the art an
     - Elastic Beanstalk.
     - Lambda.
 
-
-
-
-## Mobile App Screenshots: 
-<img src="assets/sign-up.png" alt="Project Screenshot" width="300">
-<img src="assets/otp.png" alt="Project Screenshot" width="300">
-<img src="assets/homepage.png" alt="Project Screenshot" width="300">
-<img src="assets/gallery.png" alt="Project Screenshot" width="300">
-<img src="assets/view-image.png" alt="Project Screenshot" width="300">
-<img src="assets/buy-image.png" alt="Project Screenshot" width="300">
-<img src="assets/choose-image-specs.png" alt="Project Screenshot" width="300">
-<img src="assets/checkout.png" alt="Project Screenshot" width="300">
-<img src="assets/loha-store.png" alt="Project Screenshot" width="300">
-<img src="assets/filtering-loha-store.png" alt="Project Screenshot" width="300">
-<img src="assets/order-tracking.png" alt="Project Screenshot" width="300">
-<img src="assets/upload-photos.png" alt="Project Screenshot" width="300">
-<img src="assets/create-photo.png" alt="Project Screenshot" width="300">
-
-
-## Dasboard Screenshots:
-<img src="assets/dashboard-1.png" alt="Project Screenshot" width="700">
-<img src="assets/dashboard-2.png" alt="Project Screenshot" width="700">
+## Preview 
+Cannot be shared due to Non-Disclosure Agreement with the client.
